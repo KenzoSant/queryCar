@@ -7,4 +7,5 @@
 - Interface de usuário agradável.
 - Desenvolvido em grupo (Universitário)
 ##
-![Captura de Tela (79)](https://github.com/KenzoSant/QueryCar/assets/83035443/6305631f-dd07-4346-b43b-d47ffbd6bf46)
+
+![Query](https://github.com/KenzoSant/queryCar/assets/83035443/3a0606b3-b7d6-478a-99b2-344fef249b63)
